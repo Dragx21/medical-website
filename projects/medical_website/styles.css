@@ -56,6 +56,10 @@
     transform: scaleX(0);
     transition: transform 0.5s ease;
 }
+.heading:hover::after {
+    transform: scaleX(1);
+}
+
 .main{
         width: 1500px;
         height: 400px;
@@ -141,6 +145,3 @@
     margin: 25px;
   }
 
-.heading:hover::after {
-    transform: scaleX(1);
-}
