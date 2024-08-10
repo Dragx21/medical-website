@@ -190,3 +190,47 @@ p {
 .footer a:hover {
     color: rgb(110, 172, 218);
 }
+.Serviceparent{
+       width:800px ;
+       height: 500px;
+       padding: 20px;
+       display: flex;
+     
+     
+       
+       
+}
+.child{
+    width: 400px;
+    height: 400px;
+    border: 2px solid black;
+    margin: 5px;
+   
+    
+    
+}
+.img3{
+    width:  400px;
+    height: 400px;
+
+}
+.head{
+        width: 200px;
+        height: 100px;
+        margin-left: 100px;
+       
+
+}
+.head a{
+    font-size: 30px;
+    color: black;
+}
+.head p{
+    width: 400px;
+        height: 100px;
+        margin-left:   10px;
+        font-size: 20px;
+}
+h1{
+    text-align: center;
+}
